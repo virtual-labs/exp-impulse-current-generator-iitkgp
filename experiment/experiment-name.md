@@ -1,1 +1,1 @@
-## Experiment name
+## Study Of Impulse Current Generator
