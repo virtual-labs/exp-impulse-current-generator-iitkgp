@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. For producing large values of impulse currents, a number of capacitors are charged in",
+      "answers": {
+        "a": "Parallel and discharged in series",
+        "b": "Parallel and discharged in parallel",
+        "c": "Series and discharged in series",
+        "d": "Series and discharged in parallel"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An impulse current generator has a total capacitance of 8 micro Farad, with a charging voltage is 25 kV. If generator has to give an output current of 10 kA with 8/20 micro second waveform, total resistance and inductance in the circuit, respectively",
+      "answers": {
+        "a": "1.40 Ohm, 4.0 micro Henry",
+        "b": "1.40 Ohm, 8.125 micro Henry",
+        "c": "0.87 Ohm, 8.125 micro Henry",
+        "d": "cannot be determined"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The undershoot in the output current waveform is mainly due to",
+      "answers": {
+        "a": "total inductance (reactance) is higher as compared to total impedance of a circuit",
+        "b": "ratio 4/(Cg*R) is greater than the ratio R/L",
+        "c": "depends on surrounding conditions",
+        "d": "both (a) and (b)"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
