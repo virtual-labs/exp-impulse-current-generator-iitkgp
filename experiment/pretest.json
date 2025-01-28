@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "A standard lightning impulse current is characterized by",
+      "question": "1. A standard lightning impulse current is characterized by",
       "answers": {
         "a": "1/20 micro second pulse",
         "b": "4/10 micro second pulse",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Relations between the circuit parameters for producing over damped and under damped oscillatory waves in a series RLC circuit are",
+      "question": "2. Relations between the circuit parameters for producing over damped and under damped oscillatory waves in a series RLC circuit are",
       "answers": {
         "a": "R2/L > (4/C) and R2/L < (4/C)",
         "b": "R2/L < (4/C) and R2/L > (4/C)",
